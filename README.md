@@ -24,3 +24,9 @@ B.Tech Student | Python Developer | DSA Enthusiast
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=venky1908112-droid&color=blueviolet)
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Venkat_999?theme=dark&font=Nunito&ext=contest" />
+</p>

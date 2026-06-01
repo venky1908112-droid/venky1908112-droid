@@ -2,23 +2,29 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Venkat%20Sai&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Venkat Sai</h1>
 
 <h3 align="center">
-B.Tech Student | Python Developer | DSA Enthusiast
+B.Tech Student • Python Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
 🚀 Solving LeetCode Daily <br>
 💻 Building Python Projects <br>
+📚 Passionate about Data Structures & Algorithms <br>
+🎯 Preparing for Software Engineering Opportunities
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;DSA+Enthusiast;LeetCode+Daily+Solver;Building+Awesome+Projects" />
 </p>
 
-# Tech Stack
+## 🔗 Connect With Me
+
+* 🏆 LeetCode: https://leetcode.com/u/Venkat_999/
+* 💻 GitHub: https://github.com/venky1908112-droid
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
@@ -26,15 +32,10 @@ B.Tech Student | Python Developer | DSA Enthusiast
 
 ## 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- Advanced Python Development
-- Problem Solving & Competitive Programming
-- Building Real-World Python Projects
-
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=venky1908112-droid&color=blueviolet)
+* Data Structures & Algorithms
+* Advanced Python Development
+* Problem Solving & Competitive Programming
+* Building Real-World Python Projects
 
 ## 🏆 LeetCode Stats
 
@@ -42,13 +43,20 @@ B.Tech Student | Python Developer | DSA Enthusiast
   <img src="https://leetcard.jacoblin.cool/Venkat_999?theme=dark&font=Nunito&ext=contest" />
 </p>
 
+## 📈 Coding Journey
+
+* 🔥 Consistently solving LeetCode problems
+* 📚 Practicing Data Structures & Algorithms
+* 🐍 Building Python applications
+* 🚀 Learning through real-world projects
+
 ## 🎯 2026 Goals
 
-- 🔥 Solve LeetCode problems consistently
-- 📚 Strengthen DSA concepts
-- 🚀 Build impactful Python projects
-- 💼 Prepare for placements
-- 🌟 Contribute to Open Source
+* 🔥 Solve LeetCode problems consistently
+* 📚 Strengthen DSA concepts
+* 🚀 Build impactful Python projects
+* 💼 Prepare for placements
+* 🌟 Contribute to Open Source
 
 ## 🚀 Featured Projects
 
@@ -76,10 +84,16 @@ Merge multiple PDF files and split PDFs efficiently using Python.
 
 Download YouTube videos through a simple and intuitive Python application.
 
+## 👀 Profile Views
 
-## 📈 Contribution Activity
+![](https://komarev.com/ghpvc/?username=venky1908112-droid\&color=blueviolet)
 
-[![Venkat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venky1908112-droid&theme=tokyo-night)](https://github.com/venky1908112-droid)
+## ⚡ Fun Facts
+
+* 🔥 Solving LeetCode problems daily
+* 📚 B.Tech Student passionate about DSA
+* 💻 Love building Python projects
+* 🚀 Always learning something new
 
 ---
 

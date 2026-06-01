@@ -42,6 +42,10 @@ B.Tech Student | Python Developer | DSA Enthusiast
   <img src="https://leetcard.jacoblin.cool/Venkat_999?theme=dark&font=Nunito&ext=contest" />
 </p>
 
+## 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=venky1908112-droid&theme=radical&no-frame=true&row=1)
+
 ## 🚀 Featured Projects
 
 ### 📊 DSA Visualizer

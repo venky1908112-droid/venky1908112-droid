@@ -42,9 +42,13 @@ B.Tech Student | Python Developer | DSA Enthusiast
   <img src="https://leetcard.jacoblin.cool/Venkat_999?theme=dark&font=Nunito&ext=contest" />
 </p>
 
-## 🏆 Achievements
+## 🎯 2026 Goals
 
-![](https://github-profile-trophy.vercel.app/?username=venky1908112-droid&theme=radical&no-frame=true&row=1)
+- 🔥 Solve LeetCode problems consistently
+- 📚 Strengthen DSA concepts
+- 🚀 Build impactful Python projects
+- 💼 Prepare for placements
+- 🌟 Contribute to Open Source
 
 ## 🚀 Featured Projects
 

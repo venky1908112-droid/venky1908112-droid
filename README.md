@@ -9,7 +9,6 @@ B.Tech Student | Python Developer | DSA Enthusiast
 <p align="center">
 🚀 Solving LeetCode Daily <br>
 💻 Building Python Projects <br>
-🌱 Learning New Technologies Every Day
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;DSA+Enthusiast;LeetCode+Daily+Solver;Building+Awesome+Projects" />

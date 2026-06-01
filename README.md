@@ -20,6 +20,7 @@ B.Tech Student | Python Developer | DSA Enthusiast
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=venky1908112-droid&color=blueviolet)

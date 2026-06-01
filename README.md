@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Venkat%20Sai&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+</p>
+
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Venkat Sai</h1>

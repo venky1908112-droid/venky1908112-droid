@@ -49,7 +49,7 @@ class VenkatSai:
 [![LeetCode](https://img.shields.io/badge/LeetCode-Venkat__999-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Venkat_999)
 [![GitHub](https://img.shields.io/badge/GitHub-venky1908112--droid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venky1908112-droid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venky1908112@gmail.com)
 
 </div>
 
@@ -63,22 +63,13 @@ class VenkatSai:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Tools & Ecosystem
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📚 Currently Expanding Into
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧠 Core Competencies
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-10B981?style=for-the-badge)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-F59E0B?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-3B82F6?style=for-the-badge)
 
 </div>
@@ -96,7 +87,7 @@ class VenkatSai:
 | Metric | Status |
 |---|---|
 | 🎯 Platform | [LeetCode](https://leetcode.com/Venkat_999) |
-| 📈 Focus Areas | Arrays · Strings · Recursion · DP · Graphs |
+| 📈 Focus Areas | Arrays · Strings · Hashing · Two Pointers · Sliding Window · Basic Recursion |
 | 🔥 Streak Goal | Daily problem-solving habit |
 | 🚀 Target | 300+ Problems → Placement Ready |
 
@@ -111,7 +102,7 @@ class VenkatSai:
 <td width="50%" valign="top">
 
 ### 🔍 [DSA Visualizer](https://github.com/venky1908112-droid/DSA_Visualizer)
-Interactive visualizations for sorting algorithms, graph traversal, and data structures. **Built to make DSA intuitive.**
+Interactive visualizations for sorting algorithms and data structures. **Built to make DSA intuitive.**
 
 `Python` `Visualization` `Algorithms`
 
@@ -189,43 +180,6 @@ Interactive terminal-based word game with score tracking and multiple difficulty
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=venky1908112-droid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venky1908112-droid&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=venky1908112-droid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🗺️ Contribution Graph
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venky1908112-droid&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=venky1908112-droid&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📅 Coding Journey Timeline
 
 ```
@@ -241,42 +195,12 @@ Interactive terminal-based word game with score tracking and multiple difficulty
            ├─ Built DSA Visualizer, Web Scraper, Expense Tracker
            └─ Explored automation & utility tools
 
-2025 ──── ⚡ Scaling up for placements
-           ├─ Deeper DSA: Trees, Graphs, DP
-           ├─ JavaScript learning journey (beginner → industry-ready)
+2025 ──── ⚡ Strengthening DSA fundamentals
+           ├─ Arrays, Strings, Hashing, Two Pointers, Sliding Window
            └─ Open Source contributions + portfolio polish
 
 2026 ──── 🎯 Target: Software Engineering Internship / Full-Time
            └─ Placement ready. Interview ready. Ship-ready.
-```
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-| Area | Progress | Goal |
-|---|---|---|
-| 🧠 DSA (LeetCode) | ████████░░ 80% | 300+ Problems |
-| 🐍 Python (Advanced) | ███████░░░ 70% | Flask + APIs |
-| 🌐 JavaScript | ████░░░░░░ 40% | React + Node.js |
-| 🔗 System Design | ███░░░░░░░ 30% | Interview Prep |
-| ☁️ Cloud Basics | ██░░░░░░░░ 20% | AWS Fundamentals |
-
-</div>
-
----
-
-## 🎯 2025–2026 Roadmap
-
-```
-Q3 2025  → Complete DSA foundations (Arrays to Graphs)
-Q4 2025  → JavaScript: Async, DOM, ES6+
-Q1 2026  → Flask REST APIs + SQL
-Q2 2026  → React basics + Full Stack mini-project
-Q3 2026  → Open Source contributions + Portfolio site
-Q4 2026  → Placement season — fully prepared
 ```
 
 ---
@@ -321,7 +245,7 @@ I'm actively looking for **internships**, **open source collaboration**, and **p
 
 If you're building something interesting in Python, DSA tools, or developer utilities — let's talk.
 
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge)](mailto:youremail@gmail.com)
+[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge)](mailto:venky1908112@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/)
 
 </div>

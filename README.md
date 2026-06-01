@@ -29,3 +29,23 @@ B.Tech Student | Python Developer | DSA Enthusiast
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Venkat_999?theme=dark&font=Nunito&ext=contest" />
 </p>
+
+## 🚀 Featured Projects
+
+### 📊 DSA Visualizer
+Visual representation of algorithms and data structures.
+
+### 🔐 Password Manager
+Secure password storage using JSON and Python.
+
+### 🌐 Google Translator GUI
+Desktop application for translating text between languages.
+
+### 🌦️ Weather App
+Fetches and displays real-time weather information.
+
+### 📄 PDF Merger & Splitter
+Merge multiple PDFs and split documents efficiently.
+
+### 🎥 YouTube Video Downloader
+Download videos through a simple Python interface.

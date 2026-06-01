@@ -30,7 +30,7 @@ class VenkatSai:
     location    = "India 🇮🇳"
     education   = "B.Tech (Computer Science)"
     
-    core_skills = ["Python", "DSA", "Problem Solving", "Git & GitHub"]
+    core_skills = ["Python", "DSA", "Problem Solving"]
     currently   = ["Mastering DSA", "Building Python Projects", "LeetCode Grind"]
     
     philosophy  = "Write clean code. Solve hard problems. Ship real projects."
@@ -89,7 +89,7 @@ class VenkatSai:
 | 🎯 Platform | [LeetCode](https://leetcode.com/Venkat_999) |
 | 📈 Focus Areas | Arrays · Strings · Hashing · Two Pointers · Sliding Window · Basic Recursion |
 | 🔥 Streak Goal | Daily problem-solving habit |
-| 🚀 Target | 300+ Problems → Placement Ready |
+| 🚀 Target | 354+ Problems Solved → Placement Ready |
 
 ---
 

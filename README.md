@@ -52,23 +52,30 @@ B.Tech Student | Python Developer | DSA Enthusiast
 
 ## 🚀 Featured Projects
 
-### 📊 DSA Visualizer
-Visual representation of algorithms and data structures.
+### 📊 [DSA Visualizer](https://github.com/venky1908112-droid/DSA_Visualizer)
 
-### 🔐 Password Manager
-Secure password storage using JSON and Python.
+Visual representation of Data Structures and Algorithms to enhance learning and understanding.
 
-### 🌐 Google Translator GUI
-Desktop application for translating text between languages.
+### 🔐 [Password Manager](https://github.com/venky1908112-droid/Password_Manager)
 
-### 🌦️ Weather App
-Fetches and displays real-time weather information.
+Securely store and manage passwords using Python and JSON.
 
-### 📄 PDF Merger & Splitter
-Merge multiple PDFs and split documents efficiently.
+### 🌐 [Google Translator](https://github.com/venky1908112-droid/Google-Translator)
 
-### 🎥 YouTube Video Downloader
-Download videos through a simple Python interface.
+Python GUI application for translating text between multiple languages.
+
+### 🌦️ [Weather App](https://github.com/venky1908112-droid/Weather-App)
+
+Displays real-time weather information through a user-friendly interface.
+
+### 📄 [PDF Merger & Splitter](https://github.com/venky1908112-droid/Pdf_Merger_Splitter)
+
+Merge multiple PDF files and split PDFs efficiently using Python.
+
+### 🎥 [YouTube Video Downloader](https://github.com/venky1908112-droid/Youtube-Video-Downloader)
+
+Download YouTube videos through a simple and intuitive Python application.
+
 
 ## 📈 Contribution Activity
 

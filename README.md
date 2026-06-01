@@ -54,3 +54,16 @@ Download videos through a simple Python interface.
 
 [![Venkat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venky1908112-droid&theme=tokyo-night)](https://github.com/venky1908112-droid)
 
+---
+
+<p align="center">
+  💡 "Consistency beats intensity."
+</p>
+
+<p align="center">
+  🚀 Always Learning • Always Building • Always Improving
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>

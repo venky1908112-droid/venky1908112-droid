@@ -24,6 +24,14 @@ B.Tech Student | Python Developer | DSA Enthusiast
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Python Development
+- Problem Solving & Competitive Programming
+- Building Real-World Python Projects
+
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=venky1908112-droid&color=blueviolet)

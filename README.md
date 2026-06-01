@@ -27,7 +27,7 @@ B.Tech Student • Python Developer • DSA Enthusiast
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </p>
 
 ## 🌱 Currently Learning

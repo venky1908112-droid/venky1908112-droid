@@ -20,3 +20,8 @@ B.Tech Student | Python Developer | DSA Enthusiast
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venky1908112-droid&show_icons=true&theme=tokyonight" />
+</p>
